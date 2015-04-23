@@ -1,6 +1,6 @@
 {
   "name": "yslow-node",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "license": "New BSD License",
   "description": "Forked from https://github.com/marcelduran/yslow, but for node specifically.",
   "keywords": [
