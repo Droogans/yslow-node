@@ -24,8 +24,8 @@
     "yslow-node": "./bin/yslow"
   },
   "repository": {
-    "type": "",
-    "url": ""
+    "type": "git",
+    "url": "https://github.com/Droogans/yslow-node"
   },
   "dependencies": {
     "jsdom": "3.1.2",
