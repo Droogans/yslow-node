@@ -1,0 +1,44 @@
+{
+  "name": "yslow-node",
+  "version": "1.0.0",
+  "license": "New BSD License",
+  "description": "Forked from https://github.com/marcelduran/yslow, but for node specifically.",
+  "keywords": [
+    "yslow",
+    "performance",
+    "har",
+    "yahoo",
+    "wpo",
+    "command",
+    "line",
+    "automation"
+  ],
+  "homepage": "http://getyslow.com",
+  "author": {
+    "name": "Yahoo! Inc.",
+    "email": "yslow@yahoo-inc.com",
+    "url": "http://getyslow.com"
+  },
+  "main": "./lib/yslow",
+  "bin": {
+    "yslow-node": "./bin/yslow"
+  },
+  "repository": {
+    "type": "",
+    "url": ""
+  },
+  "dependencies": {
+    "jsdom": "3.1.2",
+    "commander": "2.8.0"
+  },
+  "engines": {
+    "node": ">= 0.4.1"
+  },
+  "devDependencies": {},
+  "maintainers": [
+    {
+      "name": "Andrew Yurisich",
+      "email": "droogans@gmail.com"
+    }
+  ]
+}
